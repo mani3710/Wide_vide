@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "852484979646",
+    "firebase_url": "https://wideview-42754.firebaseio.com",
+    "project_id": "wideview-42754",
+    "storage_bucket": "wideview-42754.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852484979646:android:b2a9277b4a1617ce6157ef",
+        "android_client_info": {
+          "package_name": "com.wideview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852484979646-3tfso5k9955das1lmm59d7kt9pncptr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5TZ47kTMO-q3E7wP0gf2lVfnpt7TqF-c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852484979646-3tfso5k9955das1lmm59d7kt9pncptr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
